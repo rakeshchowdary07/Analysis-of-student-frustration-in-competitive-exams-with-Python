@@ -26,3 +26,5 @@
    - run wamp server, in browser [go to](https://localhost/phpmyadmin/), Create a database named fustration and import the fustration.SQL file . or after running wamp serser, go to icon tray click on wamp server icon, go to MySQL and then click on MySQL console, A sql command promt console will open. now copy paste text from fustration.SQL in sql command promt.
    - from CMD go to the directory you cloned in which manage.py file is there. now type python manage.py runserver. An url will be displayed, go to that url in browser.
     
+### Note
+   The code contains many files so git didnt allow to upload all of them. so i zipped the code folder and uploaded zipped file.
