@@ -16,10 +16,10 @@
 ## Required Packages installation
    - open cmd
    - type cd C://Programfiles(x86)\\python36-32//Scripts or change your current working directory to the path where you installed you python scripts and then enter following commads
-    - pip install --user django==1.11.5
-    - pip install --user mysqlclient==1.3.12
-    - pip install --user pillow
-    - pip install --user opencv-python==3.1.0.5
+   - pip install --user django==1.11.5
+   - pip install --user mysqlclient==1.3.12
+   - pip install --user pillow
+   - pip install --user opencv-python==3.1.0.5
     
 ## Execution
    - Clone the code into you device.
