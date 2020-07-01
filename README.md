@@ -13,7 +13,7 @@
    - Processor : Pentium IV 2.4 GHz.
    - Ram : 512 Mb.
 
-## Required Packages installation with required verison
+## Required Packages installation
    - open cmd
    - type cd C://Programfiles(x86)\\python36-32//Scripts or change your current working directory to the path where you installed you python scripts and then enter following commads
     - pip install --user django==1.11.5
